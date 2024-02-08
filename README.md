@@ -1,5 +1,5 @@
 ### 遥感情报分析系统 (Remote Sensing Intelligence Analysis System)
-<a href= "(https://github.com/qianyouliang/RSIAS/edit/main/readme_CN.md">Chinese</a>
+<a href= "https://github.com/qianyouliang/RSIAS/edit/main/readme_CN.md">Chinese</a>
 #### Introduction
 The Remote Sensing Intelligence Analysis System is an advanced application designed to facilitate the analysis and utilization of remote sensing imagery and geospatial data. This system provides a wide range of functionalities to users, including loading of 2D and 3D imagery data, loading of base maps, target recognition, land area statistics, feature annotation, image geolocation tracking, IP querying, visualization of geographic data, and intelligent analysis. Its goal is to assist users in effectively analyzing and extracting valuable insights from remote sensing imagery and geospatial data using cutting-edge technologies.
 
